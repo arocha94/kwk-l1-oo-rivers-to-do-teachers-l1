@@ -9,7 +9,7 @@ class River
   end 
   
   def flood
-    
+    self.discharge *= 1.3
   end
   
 
