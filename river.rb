@@ -8,4 +8,10 @@ class River
     @name = name
   end 
   
+  def flood
+    
+  end
+  
+
+  
 end
